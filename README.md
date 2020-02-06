@@ -3,7 +3,7 @@ Syllabus and slides are for School of Electrical Engineering, HUST and taught in
 
 # Buổi học tuần 24 (12/02/2020) sinh viên đọc trước tài liệu sách giáo trình chương 1 từ mục 1.1 đến 1.7.
 
-[comment]: <> (# Chú ý: sinh viên được sử dụng sách giáo trình và vở viết tay (không dùng tài liệu photo) khi thi giữa kỳ và cuối kỳ)
+<!-- [comment]: <> (# Chú ý: sinh viên được sử dụng sách giáo trình và vở viết tay (không dùng tài liệu photo) khi thi giữa kỳ và cuối kỳ)-->
 
 ## Syllabus
 ### Chapter 0: Course overview
