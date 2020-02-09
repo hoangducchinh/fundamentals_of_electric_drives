@@ -1,7 +1,7 @@
 # Fundamentals of Electric Drives (EE3510) lecture notes
 Syllabus and slides are for School of Electrical Engineering, HUST and taught in Spring Semester 2020 (2019.2)
 
-# Buổi học tuần 24 (12/02/2020) sinh viên đọc trước tài liệu sách giáo trình chương 1 từ mục 1.1 đến 1.7.
+# Trong thời gian nghỉ do dịch cúm, sinh viên đọc trước tài liệu sách giáo trình [1] Bùi Quốc Khánh, Nguyễn Văn Liễn, “Cơ sở truyền động điện”: Chương 1 Những khái niệm cơ bản từ mục 1.1 đến 1.7. và Chương 2 Truyền động điện một chiều mục 2.1 đến 2.3.
 
 <!-- [comment]: <> (# Chú ý: sinh viên được sử dụng sách giáo trình và vở viết tay (không dùng tài liệu photo) khi thi giữa kỳ và cuối kỳ)-->
 
